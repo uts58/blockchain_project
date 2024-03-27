@@ -1,0 +1,7 @@
+flwr~=1.0.0
+scikit-learn~=1.1.1
+tqdm~=4.63.0
+wandb~=0.15.4
+pandas~=2.0.2
+matplotlib
+seaborn
